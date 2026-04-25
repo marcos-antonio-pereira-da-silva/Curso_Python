@@ -1,2 +1,2 @@
-# curso_python
+# curso-python
 material do curso de python
